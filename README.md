@@ -110,10 +110,12 @@ I like building things that leave the screen and work in the real world — from
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rapeepat-Jrs&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0c1426&title_color=22D3EE&icon_color=FBBF24" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rapeepat-Jrs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0c1426&title_color=22D3EE" alt="Top languages" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rapeepat-Jrs&theme=tokyonight" alt="Profile details" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rapeepat-Jrs&bg_color=0c1426&color=93a6c2&line=22D3EE&point=FBBF24&area=true&hide_border=true" alt="Contribution graph" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rapeepat-Jrs&theme=tokyonight" alt="GitHub stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rapeepat-Jrs&theme=tokyonight" alt="Most commit language" />
+
+<img width="100%" src="https://ghchart.rshah.org/22D3EE/Rapeepat-Jrs" alt="Contribution chart" />
 
 </div>
 
