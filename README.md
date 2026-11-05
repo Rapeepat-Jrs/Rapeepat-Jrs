@@ -115,8 +115,6 @@ I like building things that leave the screen and work in the real world — from
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rapeepat-Jrs&theme=tokyonight" alt="GitHub stats" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rapeepat-Jrs&theme=tokyonight" alt="Most commit language" />
 
-<img width="100%" src="https://ghchart.rshah.org/22D3EE/Rapeepat-Jrs" alt="Contribution chart" />
-
 </div>
 
 ---
